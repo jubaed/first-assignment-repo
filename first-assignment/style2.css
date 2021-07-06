@@ -1,0 +1,40 @@
+#orange{
+    color: orange;
+}
+
+section{
+    display: flex;
+    font-family: 'Bebas Neue', cursive;
+    
+}
+.font{
+      font-size: 40px;
+      padding-left: 70px;
+      padding-top: 100px;
+}
+
+h1{
+    padding-top: 2px;
+}
+
+.thebutton{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 400;
+    padding: 10px 40px;
+    border-radius: 15px;
+}
+
+.fontcolor{
+          color: rgba(0, 0, 0, 0.644);
+}
+
+
+.shorao {
+      background-image: url(images/shapes/7.png);
+      background-repeat: no-repeat;
+      margin-top: 100px;
+}
+
+
